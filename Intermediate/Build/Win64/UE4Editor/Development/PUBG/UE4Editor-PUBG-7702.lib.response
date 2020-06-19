@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PUBG-7702.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\work\PUBG\PUBG\Intermediate\Build\Win64\PUBGEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\work\PUBG\PUBG\Intermediate\Build\Win64\UE4Editor\Development\PUBG\PUBG.cpp.obj"
+"C:\work\PUBG\PUBG\Intermediate\Build\Win64\UE4Editor\Development\PUBG\TPSCursorHUD.cpp.obj"
+"C:\work\PUBG\PUBG\Intermediate\Build\Win64\UE4Editor\Development\PUBG\PUBG.init.gen.cpp.obj"
+"C:\work\PUBG\PUBG\Intermediate\Build\Win64\UE4Editor\Development\PUBG\TPSCursorHUD.gen.cpp.obj"
+"C:\work\PUBG\PUBG\Intermediate\Build\Win64\UE4Editor\Development\PUBG\PCLaunch.rc.res"
+/OUT:"C:\work\PUBG\PUBG\Intermediate\Build\Win64\UE4Editor\Development\PUBG\UE4Editor-PUBG-7702.lib"

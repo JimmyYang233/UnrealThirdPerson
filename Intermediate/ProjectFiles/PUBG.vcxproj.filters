@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\PUBG.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{060658FF-F027-4ACE-A2BF-3D33F7504807}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\PUBG.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\PUBGEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{3358FF13-CC6C-4AC4-85CF-DB55036B9946}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\PUBG">
+			<UniqueIdentifier>{1160AA6F-FB02-4331-9681-9D2EA6444D4A}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\PUBG\HitBoxBase.cpp">
+			<Filter>Source\PUBG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PUBG\HitBoxBase.h">
+			<Filter>Source\PUBG</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\PUBG\PUBG.Build.cs">
+			<Filter>Source\PUBG</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\PUBG\PUBG.cpp">
+			<Filter>Source\PUBG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PUBG\PUBG.h">
+			<Filter>Source\PUBG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\PUBG\TPSCursorHUD.cpp">
+			<Filter>Source\PUBG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PUBG\TPSCursorHUD.h">
+			<Filter>Source\PUBG</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
